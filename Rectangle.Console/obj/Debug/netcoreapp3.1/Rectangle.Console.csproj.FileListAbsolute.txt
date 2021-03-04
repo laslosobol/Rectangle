@@ -1,0 +1,16 @@
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.exe
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.deps.json
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.runtimeconfig.json
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.runtimeconfig.dev.json
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.dll
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Console.pdb
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Impl.dll
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.1\Rectangle.Impl.pdb
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.csprojAssemblyReference.cache
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.AssemblyInfoInputs.cache
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.AssemblyInfo.cs
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.csproj.CopyComplete
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.dll
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.pdb
+C:\Users\Sobol\Desktop\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.1\Rectangle.Console.genruntimeconfig.cache

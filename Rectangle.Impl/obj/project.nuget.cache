@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUHQ5GoVYmvNzNydjjXhIFaAPSOwO6OPJVEXEUymZKoljPRcEeSUjSkTuZDH+FL001YN/PZvF3hxyfvnLbxlPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sobol\\Desktop\\Rectangle\\Rectangle.Impl\\Rectangle.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sobol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
