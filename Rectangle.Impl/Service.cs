@@ -16,12 +16,7 @@ namespace Rectangle.Impl
 			{
 				throw new ArgumentException("Less than 2 points!");
 			}
-			if ((from point in points
-				from check in points
-				where point != check
-				where
-					point.X == check.X && point.Y == check.Y
-				select point).Any())
+			if (points.Distinct().Count() != points.Count())
 			{
 				throw new ArgumentException("There can't be 2 points with identical X and Y");
 			}
